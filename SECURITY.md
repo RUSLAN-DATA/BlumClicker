@@ -11,7 +11,7 @@ We currently support the following versions of BlumClicker:
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability in BlumClicker, please report it to the following email: **security@barskz.com**.
+If you find a vulnerability in BlumClicker, please report it to the following email: **barskz@barskz.kz**.
 
 When reporting a vulnerability, please provide the following details:
 - A clear description of the issue.
